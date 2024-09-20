@@ -1,0 +1,12 @@
+git clone https://github.com/joeltam/GitHub-Collaboration-Practice
+cd GitHub-Collaboration-Practice
+git checkout -b sierra_branch
+nano groupproject.md
+touch sierra-commands.txt
+nano sierra-commands.txt
+git status
+git add *
+git commit -m "Sierra added degree and research interests to groupproject.md and created sierra-commands.txt"
+git push 
+
+
