@@ -7,4 +7,8 @@ git status
 git add *
 git commit -m "NalinaSofia added degree and research interests to groupproject.md and created NalinaSofia-commands.txt"
 git push                               
-
+created branch Nalina_branch in collaboration repository
+git push
+pull request sent
+pull request reviewed approved
+merged branch NalinaSofia-commands.txt
